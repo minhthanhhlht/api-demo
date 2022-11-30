@@ -9,7 +9,7 @@ const fs = require('fs');
 let rawdata = fs.readFileSync('db.json');
 let routes = JSON.parse(rawdata);
 
-const PORT = 8000;
+const PORT = 80;
 
 db.defaults({ products: [] }).write()
 
