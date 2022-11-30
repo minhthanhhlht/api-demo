@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Iphone 14 ProMax",
+      "price": "30000000",
+      "description": "Thông tin sản phẩm Iphoen 14 ProMax",
+      "id": "j0bLDCCydXVRKbmVLzXfL"
+    },
+    {
+      "name": "Iphone 14",
+      "price": "25000000",
+      "description": "Thông tin sản phẩm Iphone 14 ProMax",
+      "id": "iD5xM0X21CBRDU1Dm9xvd"
+    },
+    {
+      "name": "Iphone 13",
+      "price": "15000000",
+      "description": "Thông tin Iphone 13",
+      "id": "bNwCSlLmA5kEp067FQzsw"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": 123456
+    }
+  ]
+}
